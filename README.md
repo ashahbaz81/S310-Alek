@@ -12,7 +12,9 @@ Below is the original picture:
 ![81357921-indiana-keith-smart-1987-ncaa-national-championship Medium](https://user-images.githubusercontent.com/111899470/199761955-7282ed89-ee09-4a50-863d-3c7180b8d43b.jpeg)
 
 
-Project 2: I was stumped on what to make for my interactive collage, but I was eating chips and talking to my mom on facetime and she made a comment to me. She is Swedish and in Sweden they usually only eat chips and candy on Saturdays. It got me thinking about how Americans really do eat more snacks than other countries, and I wanted to highlight that. I found he Top 15 or so most popular snacks in America and was able to cut them out and place them all as PNG's. I made the cursor a Dorito chip and it left a trail of Dorito behind it. I had a button to reset the background.
+Project 2: I was stumped on what to make for my interactive collage, but I was eating chips and talking to my mom on facetime and she made a comment to me about the fact I was eating chips. She is Swedish and in Sweden they usually only eat chips and snacks and candy on Saturdays. It got me thinking about how Americans really do eat more snacks than other countries, and I wanted to highlight that. I found he Top 15 or so most popular snacks in America and was able to cut them out and place them all as PNG's. I made the cursor a Dorito chip and it left a trail of Dorito behind it. I had a button to reset the background.
 
 
 https://editor.p5js.org/ashahbaz81/full/khOcSKdIp 
+
+Project 3: For my wearable prosthetic I chose to make a facelamp of sorts. Originally I planned to make a headlamp that gets brighter as it gets darker. I used the light sensor to my advantage and made it to so that more neopixels light up as it senses less light. I changed my idea to put the lights on the under side of my hat brim, so that it illuminates my face. I wanted to add another feature to it so I allowed one of the buttons to make the light turn green. 

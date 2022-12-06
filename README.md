@@ -18,3 +18,6 @@ Project 2: I was stumped on what to make for my interactive collage, but I was e
 https://editor.p5js.org/ashahbaz81/full/khOcSKdIp 
 
 Project 3: For my wearable prosthetic I chose to make a facelamp of sorts. Originally I planned to make a headlamp that gets brighter as it gets darker. I used the light sensor to my advantage and made it to so that more neopixels light up as it senses less light. I changed my idea to put the lights on the under side of my hat brim, so that it illuminates my face. I wanted to add another feature to it so I allowed one of the buttons to make the light turn green. 
+
+Final Project: 
+https://editor.p5js.org/ashahbaz81/full/00JZxqMUA 
